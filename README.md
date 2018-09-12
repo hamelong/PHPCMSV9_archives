@@ -6,7 +6,10 @@ PHPCMSV9在国内使用的人还是比较多的，也有一部分人当做博客
 
 演示参考：www.linyufan.com
 
-效果图：
+> **效果图：**
 
 ![image](https://github.com/hamelong/PHPCMSV9_archives/blob/master/images/1.jpg)
     
+> **其他问题关注我的小程序即可：**
+
+![image](https://github.com/hamelong/PHPCMSV9_archives/blob/master/images/MiniProgram.jpg)
