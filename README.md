@@ -5,3 +5,8 @@ PHPCMSV9在国内使用的人还是比较多的，也有一部分人当做博客
 功能：PHPCMSv9文章按年|按月归档
 
 演示参考：www.linyufan.com
+
+效果图：
+
+![image](https://github.com/hamelong/PHPCMSV9_archives/blob/master/images/1.jpg)
+    
